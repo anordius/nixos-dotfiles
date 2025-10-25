@@ -92,6 +92,7 @@
   ];
 
   fonts.packages = with pkgs; [
+    corefonts
     nerd-fonts.jetbrains-mono
     nerd-fonts.symbols-only
     nerd-fonts.ubuntu-sans
