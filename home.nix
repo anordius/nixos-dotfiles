@@ -39,6 +39,6 @@
     zsh
     tree-sitter
     lazygit
-    unetbootin
+    ffmpeg-full
 ];
 }
