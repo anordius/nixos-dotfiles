@@ -40,5 +40,6 @@
     tree-sitter
     lazygit
     ffmpeg-full
+    mpv
 ];
 }
