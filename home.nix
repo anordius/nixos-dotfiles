@@ -39,5 +39,6 @@
     zsh
     tree-sitter
     lazygit
+    unetbootin
 ];
 }
