@@ -12,12 +12,6 @@
     };
   };
   home.packages = with pkgs; [
-    neovim
-    ripgrep
-    nil
-    nixpkgs-fmt
-    nodejs
-    gcc
     python314
     qgis
     R
@@ -42,5 +36,16 @@
     ffmpeg-full
     mpv
     zoom-us
+    ghostty
+    yazi
+    fd
+    fzf
+    unzip
+    go 
+    cargo
+    wl-clipboard
+    xclip
+    lua
+    lua-language-server
 ];
 }

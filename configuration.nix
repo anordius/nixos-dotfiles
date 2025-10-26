@@ -76,6 +76,11 @@
   environment.systemPackages = with pkgs; [
     wget
     neovim
+    ripgrep
+    nil
+    nixpkgs-fmt
+    nodejs
+    gcc
     freetype
     fontconfig
     noto-fonts
