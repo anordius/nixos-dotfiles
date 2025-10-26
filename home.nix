@@ -41,5 +41,6 @@
     lazygit
     ffmpeg-full
     mpv
+    zoom-us
 ];
 }
